@@ -4,7 +4,7 @@ import requests
 import json
 
 # Set your Google API key (you can also directly insert it here)
-os.environ["GOOGLE_API_KEY"] = "AIzaSyDWrjUkQSw64D7sxYn69bGKh03Q8Ml98Ns"  # Replace with your API key
+os.environ["GOOGLE_API_KEY"] = "XXXXXXXXXXXXXXXXXx"  # Replace with your API key
 
 # If the API key isn't set in the environment, prompt for it
 if not os.environ.get("GOOGLE_API_KEY"):
