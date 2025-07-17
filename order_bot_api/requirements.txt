@@ -1,0 +1,25 @@
+requests
+mysql-connector-python
+
+#export GOOGLE_API_KEY=AIzaSyDWrjUkQSw64D7sxYn69bGKh03Q8Ml98Ns
+http://localhost:5173/order-bot
+# What is order 1000000 status
+
+python3 app.py
+
+npm run dev
+
+----------------
+
+What is the status of order 1000000?”
+(It replies from the database)
+
+Ask in another language (e.g., Spanish or Swedish):
+
+“¿Cuál es el estado del pedido 1000000?”
+(It auto-translates, fetches status, and replies back in Spanish )
+
+Try a date-based query:
+
+“show all the orders for the date 2021-11-03”
+(Replies with multiple orders )
